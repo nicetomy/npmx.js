@@ -1,0 +1,13 @@
+{
+  "name": "npmx.js",
+  "version": "0.0.1",
+  "description": "npmx",
+  "bin": {
+    "npmx": "./bin/npmx.js"
+  },
+  "keywords": [
+    "node",
+    "npmx"
+  ],
+  "author": "nicetomy@outlook.com"
+}
